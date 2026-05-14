@@ -1,6 +1,6 @@
 ---
 title: "Pwning MartiniAD"
-date: 2026-05-14 12:00:00 +0530
+date: 2026-05-14 22:05:00 +0530
 categories: [Writeups, Active Directory]
 tags: [kerberoasting, winrm, dcsync, pentesting, hack-smarter]
 ---
