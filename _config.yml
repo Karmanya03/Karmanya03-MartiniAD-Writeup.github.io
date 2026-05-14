@@ -76,7 +76,7 @@ theme_mode: dark # [light | dark] - Locked to dark mode for the hacker aesthetic
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/avatar.png # Drop a cool profile pic or logo here later!
+avatar:"" # Drop a cool profile pic or logo here later!
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 social_preview_image: 
