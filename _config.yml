@@ -17,10 +17,10 @@ title: Karmanya's Sec Blog # the main title
 tagline: AD Pentesting # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Penetration testing writeups, security research, and technical deep dives.
+  Penetration testing writeups, security research, Game Dev and technical deep dives.
 
 # Fill in the protocol & hostname for your site.
-url: "https://Karmanya03-MartiniAD-Writeup.github.io"
+url: "https://Karmanya03.github.io"
 
 github:
   username: Karmanya03 # change to your GitHub username if different
