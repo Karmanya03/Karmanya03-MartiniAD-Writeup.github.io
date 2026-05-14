@@ -3,9 +3,6 @@ title: "Pwning MartiniAD"
 date: 2026-05-14 12:00:00 +0530
 categories: [Writeups, Active Directory]
 tags: [kerberoasting, winrm, dcsync, pentesting, hack-smarter]
-image:
-  path: /assets/img/martiniad-cover.jpg
-  alt: A hacker terminal or MartiniAD logo
 ---
 
 Let's talk about MartiniAD. I recently tackled this Active Directory box, and honestly, the attack path was a beautiful disaster of stacked misconfigurations. It started with credentials left out in the open, escalated through a classic Kerberoast, and ended because a Domain Admin basically left their password on a sticky note in the terminal history.
